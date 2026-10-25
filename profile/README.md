@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://hujiachengme.netlify.app/">个人网站</a> ·
-  <a href="https://github.com/bingwu-devkit">开发工具箱</a> ·
   <a href="https://github.com/orgs/bingwu-templates/repositories">全部模板</a>
 </p>
 
